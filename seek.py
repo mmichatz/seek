@@ -1,8 +1,7 @@
- def some_program():
+def some_program():
 	i=0
 	while i < 5:
-		print('hi')
-		i+=1
+	i+=1
 #some testing here
 if __name__ == '__main__':
 	some_program()
