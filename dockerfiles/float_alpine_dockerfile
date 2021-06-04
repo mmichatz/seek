@@ -1,5 +1,5 @@
 #This is the Dockerfile with dependency A
-FROM alpine
+F:ROM alpine
 CMD ["echo", "Dockerfile says: This is Dependency A"]
 #FROM ubuntu:20.04
 #ENV TZ Europe/Berlin
