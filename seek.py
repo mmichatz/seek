@@ -7,3 +7,4 @@ def some_program():
 	
 if __name__ == '__main__':
 	some_program()
+	print('eine Änderung')
